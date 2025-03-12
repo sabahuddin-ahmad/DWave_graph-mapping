@@ -16,6 +16,8 @@ following graph.
 
 ![New Graph](images/new_graph.png "New Graph")
 
+A vertex cover is a set of vertices such that each edge of the graph is incident with at least one vertex in the set. A minimum vertex cover is the vertex cover of smallest size.
+
 ## Running ``change_problem_solution.py``. 
 The output is as follows:
 
