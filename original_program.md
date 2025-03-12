@@ -26,3 +26,10 @@ Your plots are saved to antenna_plot_original.png and antenna_plot_solution.png
 #### Solution
 ![Solution](images/antenna_plot_solution.png "Solution")
 
+
+#### Alternate Original
+![Alternate Original](images/antenna_plot_original_1.png "Alternate Original")
+
+#### Alternate Solution
+![Alternate Solution](images/antenna_plot_solution_1.png "Alternate Solution")
+
